@@ -1,0 +1,33 @@
+---
+title: "Homework11"
+author: "Ka Man Chan"
+date: "November 9, 2016"
+output: html_document
+---
+######Introduction
+######SMARTMUSEUM: A Mobile Recommender System for the Web of Data
+######http://www.smartmuseum.eu/del/D4.3_v1.0_SM.pdf
+
+######Who are your target users?
+######Tourists --Mobile outdoor, Mobile indoor, Desktop users.
+
+######What are their key goals?
+######Providing Tourists who moves around a city with information about interesting sites
+######Providing Tourists who is indoors on the site buildings with information about interesting objects.
+######Providing Tourists who manually enter or edit the user profile on a desktop machine before or after a visit
+
+######How can you help them accomplish those goals?
+######1. Detecting the location of the user from Global Positioning System (GPS); Anaylzing the user’s profile and visit-time context.* ;Providing the user with the recommendations of sites of potential interest.
+######2. Utilizing Radio Frequency Identification (RFID) technology; Providing the details of objects exhibited at the site being visited*; users retrieving information about an object through reading of an RFID.
+######3. Creating and examining the non-topic-related profile information through the Web-based interface; Understanding user’s abilities, such as ability to hear, see, and walk. ;Anaylzing non-topic-related and topical preferences and filtering content for the user.
+######4. Reverse Engineering
+######   Applying semantic recommender method.
+######   Relying on the vector space model and clustering, and uses indices that enable fast and scalable implementation of the system
+######   The system makes use of an information retrieval framework where in context data and 
+######   search result clustering are used in recommendation of suitable content for mobile users.
+######5. Recommendations
+######   Collecting feedback from the mobile application; eg. How many stars/likes; Must see objects; Waiting time; 
+######   Collecting photos/locations
+######   Sharing recommendation based on the results from sentiment analysis
+######   Sharing photos with other users
+######   Sharing good/bad experiences
